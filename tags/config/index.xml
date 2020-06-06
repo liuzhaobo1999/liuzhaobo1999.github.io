@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>config on LZB日常</title>
+    <link>//liuzhaobo1999.github.io/tags/config/</link>
+    <description>Recent content in config on LZB日常</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 06 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="//liuzhaobo1999.github.io/tags/config/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo使用指南</title>
+      <link>//liuzhaobo1999.github.io/2020/06/hugo%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>//liuzhaobo1999.github.io/2020/06/hugo%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/</guid>
+      <description>开始 先安装go和git
+ win10 直接去hugo github下载EXE, 配置好环境变量. (Mac: brew install hugo) hugo new site /path/to/site cd /path/to/site hugo new about.md hugo new post/first.md mkdir themes &amp;amp;&amp;amp; git clone https://github.com/kakawait/hugo-tranquilpeak-theme.git themes/tranquilpeak, 进入主题目录找到示例的配置文件, 替换config.toml hugo 生成静态文件public hugo server http://localhost:1313查看效果 把public部署到GitHub: 创建仓库yourname.github.io, 然后像git以往的操作, push到该仓库, 最后直接访问https://yourname.github.io 开发测试-快捷操作: ./dev.sh  #!/bin/bash hugo hugo server 部署-快捷操作: ./deploy.sh  #!/bin/bash # build the project hugo cd public git add . msg=&amp;#34;rebuilding site `date`&amp;#34; if [ $# -eq 1 ] then msg=&amp;#34;$1&amp;#34; fi git commit -m &amp;#34;$msg&amp;#34; # push source to github git push origin master # come back to blog root cd .</description>
+    </item>
+    
+  </channel>
+</rss>
