@@ -1,0 +1,20 @@
+baseURL = 'http://liuzhaobo1999.github.io/'
+languageCode = 'en'
+defaultContentLanguage = "en"
+hasCJKLanguage = true
+title = 'LZB-blog'
+copyright = 'LZB'
+theme = 'hugo-theme-itheme'
+paginate = 5
+[params]
+  defaultCover = 'https://www.apple.com.cn/newsroom/images/apple-logo_black.jpg.landing-regular_2x.jpg'
+  email = 'liuzhaobo2000@outlook.com'
+  [[params.socialMedia]]
+    name = 'Github'
+    url = 'https://github.com/liuzhaobo1999'
+  [[params.blogroll]]
+    name = 'kindle-time'
+    url = 'http://liuzhaobo1999.github.io/kindle-time/'
+  [[params.blogroll]]
+    name = 'Apple'
+    url = 'https://apple.com/'
