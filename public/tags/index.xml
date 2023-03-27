@@ -6,6 +6,16 @@
     <description>Recent content in Tags on LZB-blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>LZB</copyright><atom:link href="http://liuzhaobo1999.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>LZB</copyright>
+    <lastBuildDate>Mon, 27 Mar 2023 10:37:39 +0800</lastBuildDate><atom:link href="http://liuzhaobo1999.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hugo</title>
+      <link>http://liuzhaobo1999.github.io/tags/hugo/</link>
+      <pubDate>Mon, 27 Mar 2023 10:37:39 +0800</pubDate>
+      
+      <guid>http://liuzhaobo1999.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

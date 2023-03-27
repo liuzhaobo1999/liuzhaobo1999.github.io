@@ -2,7 +2,7 @@
 title: "Quick Start"
 date: 2023-03-27T10:37:39+08:00
 description: "Learn to create a Hugo site in minutes."
-draft: true
+draft: false
 author: "hugo"
 cover: ""
 tags: ["hugo"]
