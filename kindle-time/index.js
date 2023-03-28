@@ -67,7 +67,7 @@ function render() {
   }`;
   // const timeText = `${date.getHours()}:${date.getMinutes()}`;
   let minutes = date.getMinutes();
-  const timeText = `${date.getHours()}:${minutes.padStart(2,"0")}`;
+  const timeText = `${date.getHours()}:${minutes<10 ? "0"+minutes : minutes}`;
   const cnDateText = `${lunar.IMonthCn}${lunar.IDayCn} ${lunar.Animal}年`;
 
   if (domDate.innerHTML != dateText) domDate.innerHTML = dateText;
