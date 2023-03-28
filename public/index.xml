@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LZB-blog</title>
-    <link>http://liuzhaobo1999.github.io/</link>
+    <link>http://liuzhaobo1999.github.io/public/</link>
     <description>Recent content on LZB-blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>LZB</copyright>
-    <lastBuildDate>Mon, 27 Mar 2023 10:37:39 +0800</lastBuildDate><atom:link href="http://liuzhaobo1999.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Mar 2023 10:37:39 +0800</lastBuildDate><atom:link href="http://liuzhaobo1999.github.io/public/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://liuzhaobo1999.github.io/about/</link>
+      <link>http://liuzhaobo1999.github.io/public/about/</link>
       <pubDate>Mon, 27 Mar 2023 11:11:06 +0800</pubDate>
       
-      <guid>http://liuzhaobo1999.github.io/about/</guid>
+      <guid>http://liuzhaobo1999.github.io/public/about/</guid>
       <description>随便看看</description>
     </item>
     
     <item>
       <title>Quick Start</title>
-      <link>http://liuzhaobo1999.github.io/posts/my-first-post/</link>
+      <link>http://liuzhaobo1999.github.io/public/posts/my-first-post/</link>
       <pubDate>Mon, 27 Mar 2023 10:37:39 +0800</pubDate>
       
-      <guid>http://liuzhaobo1999.github.io/posts/my-first-post/</guid>
+      <guid>http://liuzhaobo1999.github.io/public/posts/my-first-post/</guid>
       <description>Visit the Hugo website! 快速开始 Hugo 主题 Hugo</description>
     </item>
     

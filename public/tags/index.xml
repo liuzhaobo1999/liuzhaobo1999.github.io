@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on LZB-blog</title>
-    <link>http://liuzhaobo1999.github.io/tags/</link>
+    <link>http://liuzhaobo1999.github.io/public/tags/</link>
     <description>Recent content in Tags on LZB-blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>LZB</copyright>
-    <lastBuildDate>Mon, 27 Mar 2023 10:37:39 +0800</lastBuildDate><atom:link href="http://liuzhaobo1999.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Mar 2023 10:37:39 +0800</lastBuildDate><atom:link href="http://liuzhaobo1999.github.io/public/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>hugo</title>
-      <link>http://liuzhaobo1999.github.io/tags/hugo/</link>
+      <link>http://liuzhaobo1999.github.io/public/tags/hugo/</link>
       <pubDate>Mon, 27 Mar 2023 10:37:39 +0800</pubDate>
       
-      <guid>http://liuzhaobo1999.github.io/tags/hugo/</guid>
+      <guid>http://liuzhaobo1999.github.io/public/tags/hugo/</guid>
       <description></description>
     </item>
     

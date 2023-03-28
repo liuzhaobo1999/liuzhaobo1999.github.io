@@ -1,4 +1,4 @@
-baseURL = 'http://liuzhaobo1999.github.io/'
+baseURL = 'http://liuzhaobo1999.github.io/public/'
 languageCode = 'en'
 defaultContentLanguage = "en"
 hasCJKLanguage = true
