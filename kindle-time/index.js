@@ -65,7 +65,6 @@ function render() {
       ? ["SUN", "MON", "TUES", "WED", "THUR", "FRI", "SAT"][date.getDay()]
       : "星期" + ["日", "一", "二", "三", "四", "五", "六"][date.getDay()]
   }`;
-  // const timeText = `${date.getHours()}:${date.getMinutes()}`;
   let minutes = date.getMinutes();
   const timeText = `${date.getHours()}:${minutes<10 ? "0"+minutes : minutes}`;
   const cnDateText = `${lunar.IMonthCn}${lunar.IDayCn} ${lunar.Animal}年`;
